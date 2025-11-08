@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "os.h": "c",
+        "*.c_bak": "c"
+    }
+}
